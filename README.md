@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[stock_quant_package_multi_reference](stock_quant_package_multi_reference/) | 16.0.1.0.0 |  | Package multi reference
+[stock_quant_package_multi_reference](stock_quant_package_multi_reference/) | 16.0.1.0.1 |  | Package multi reference
 
 [//]: # (end addons)
 
