@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-stock-logistics-tracking Odoo addons",
     version=version,
     install_requires=[
+        'odoo-addon-internal_stock_quant_package>=16.0dev,<16.1dev',
         'odoo-addon-stock_quant_package_multi_reference>=16.0dev,<16.1dev',
     ],
     classifiers=[

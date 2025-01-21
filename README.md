@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[internal_stock_quant_package](internal_stock_quant_package/) | 16.0.1.0.0 |  | This module allows to declare internal stock quant package
 [stock_quant_package_multi_reference](stock_quant_package_multi_reference/) | 16.0.1.0.1 |  | Package multi reference
 
 [//]: # (end addons)
